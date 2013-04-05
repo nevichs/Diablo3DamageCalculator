@@ -16,3 +16,6 @@ Saving
 Notes about Calculation
 -Does account for set bonus
 -Will account for active skills if those are chosen from the skill list.
+
+Note about Images
+-All the background images used are from the Blizzard website. I don't own them. All rights go to Blizzard Entertainment.
